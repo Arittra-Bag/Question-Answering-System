@@ -1,4 +1,4 @@
-# Question-Answering-System
+# [Question-Answering-System](https://github.com/Arittra-Bag/Question-Answering-System)
 
 ## Overview
 This project is a command-line tool that allows users to ask natural language questions about a PDF document. The tool extracts text from the PDF, identifies relevant context, and generates detailed answers with citations to specific parts of the document.
